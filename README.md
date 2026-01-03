@@ -42,3 +42,10 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     
     Enter any news article URL when prompted.
     ```
+5.  **Output**
+    ```bash
+    Full analysis printed in terminal
+    
+    Report saved as JSON in the reports/ folder
+    Example filename: misinfo_report_20260103_152833.json
+    ```
