@@ -20,3 +20,6 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
 ```bash
 git clone https://github.com/yourusername/realai-check-detector.git
 cd realai-check-detector
+
+### Sample Output
+See a real analysis: [reports/misinfo_report_20260103_152833.json](reports/misinfo_report_20260103_152833.json)
