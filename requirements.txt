@@ -3,3 +3,4 @@ beautifulsoup4
 transformers
 torch
 duckduckgo-search
+ddgs
