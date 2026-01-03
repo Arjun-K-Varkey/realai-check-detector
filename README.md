@@ -3,23 +3,29 @@
 
 # RealAI Check – AI Misinformation Detector Prototype
 
-An open-source tool to detect potential AI-generated text and fact-check claims in news articles. Built to support transparent, IFCN-aligned verification.
+An open-source tool to detect potential AI-generated text and fact-check claims in news articles. Built to support transparent, **IFCN-aligned** verification.
 
-Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.io/) independent fact-checking project focused on AI-generated misinformation.
+Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.io/) independent fact-checking project focused on AI-generated misinformation and deepfakes.
 
 ## Features
-- Detects if article text is likely AI-generated (using Hugging Face RoBERTa model)
-- Extracts key factual claims
-- Performs balanced web searches for supporting/challenging evidence
+
+- Detects if article text is likely AI-generated (Hugging Face RoBERTa model)
+- Extracts key factual claims with strict filtering
+- Performs balanced web searches for supporting and challenging evidence
 - Outputs structured JSON report
-- Saves reports automatically
+- Automatically saves reports with timestamp
 
 ## How to Run (Easy Setup)
 
 ### 1. Clone or Download This Repo
 ```bash
-git clone https://github.com/yourusername/realai-check-detector.git
+git clone https://github.com/Arjun-K-Varkey/realai-check-detector.git
 cd realai-check-detector
 
-### Sample Output
-See a real analysis: [reports/misinfo_report_20260103_152833.json](reports/misinfo_report_20260103_152833.json)
+2. Set Up Python Environment (Recommended)
+python3 -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+
+3. Install Dependencies
+pip install -r requirements.txt
+Note: First run downloads large models (~1–2 GB). Only happens once!
