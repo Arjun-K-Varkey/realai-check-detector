@@ -5,7 +5,7 @@
 
 An open-source tool to detect potential AI-generated text and fact-check claims in news articles. Built to support transparent, IFCN-aligned verification.
 
-Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.io/) project.
+Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.io/) independent fact-checking project focused on AI-generated misinformation.
 
 ## Features
 - Detects if article text is likely AI-generated (using Hugging Face RoBERTa model)
