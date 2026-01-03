@@ -34,4 +34,7 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     pip install -r requirements.txt
     ```    
 
-
+4.  **Run the Detector**
+    ```bash
+    python3 misinfo_detector.py
+    ```
