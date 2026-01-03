@@ -21,11 +21,3 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
 ```bash
 git clone https://github.com/Arjun-K-Varkey/realai-check-detector.git
 cd realai-check-detector
-
-2. Set Up Python Environment (Recommended)
-python3 -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
-
-3. Install Dependencies
-pip install -r requirements.txt
-Note: First run downloads large models (~1–2 GB). Only happens once!
