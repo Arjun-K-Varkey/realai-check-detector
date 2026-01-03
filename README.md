@@ -32,11 +32,13 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
 3.  **Install Dependencies**
     ```bash
     pip install -r requirements.txt
+    
     Note: First run downloads large models (~1–2 GB). Only happens once!
     ```    
 
 4.  **Run the Detector**
     ```bash
     python3 misinfo_detector.py
+    
     Enter any news article URL when prompted.
     ```
