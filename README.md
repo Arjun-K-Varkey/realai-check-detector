@@ -16,7 +16,6 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
 - Automatically saves reports with timestamp
 
 ## How to Run (Easy Setup)
-## How to Run (Easy Setup)
 
 1.  **Clone or Download This Repo**
     ```bash
@@ -29,5 +28,10 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     python3 -m venv venv
     source venv/bin/activate    # On Windows: venv\Scripts\activate
     ```
+
+3.  **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```    
 
 
