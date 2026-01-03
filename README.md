@@ -68,3 +68,9 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     Works best on single news articles (not homepages)
     ```
         
+    **Contributing**
+    ```
+    Found a bug? Want to improve claim extraction or add features? Open an issue or pull request!
+    Made by Arjun Varkey – January 2026
+    Human verification is always required — this is a prototype to assist, not replace, fact-checking.
+    ```
