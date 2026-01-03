@@ -168,7 +168,7 @@ def detect_misinfo(url):
     # Save JSON report
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"misinfo_report_{timestamp}.json"
-    filepath = os.path.join(os.path.expanduser("~/Downloads"), filename)
+    filepath = os.path.join(os.path.expanduser("~/Downloads/reports"), filename)
     
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(report_data, f, indent=4, ensure_ascii=False)
