@@ -49,3 +49,7 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     Report saved as JSON in the reports/ folder
     Example filename: misinfo_report_20260103_152833.json
     ```
+    **Sample Output**
+    ```bash
+    See a real analysis of the January 3, 2026 Venezuela/U.S. strikes event:
+    reports/misinfo_report_20260103_152833.json
