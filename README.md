@@ -16,8 +16,18 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
 - Automatically saves reports with timestamp
 
 ## How to Run (Easy Setup)
+## How to Run (Easy Setup)
 
-### 1. Clone or Download This Repo
-```bash
-git clone https://github.com/Arjun-K-Varkey/realai-check-detector.git
-cd realai-check-detector
+1.  **Clone or Download This Repo**
+    ```bash
+    git clone https://github.com/Arjun-K-Varkey/realai-check-detector.git
+    cd realai-check-detector
+    ```
+
+2.  **Set Up Python Environment (Recommended)**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate    # On Windows: venv\Scripts\activate
+    ```
+
+
