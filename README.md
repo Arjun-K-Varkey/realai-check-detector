@@ -42,6 +42,7 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     
     Enter any news article URL when prompted.
     ```
+    
 5.  **Output**
     ```bash
     Full analysis printed in terminal
@@ -53,3 +54,9 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     ```bash
     See a real analysis of the January 3, 2026 Venezuela/U.S. strikes event:
     reports/misinfo_report_20260103_152833.json
+    ```
+    **Example URLs to Test**
+    ```bash
+    BBC: https://www.bbc.com/news/articles/ce3ewqew4weo
+    AP News (Venezuela event): https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e
+    ```
