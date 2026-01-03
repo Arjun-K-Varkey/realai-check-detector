@@ -61,12 +61,12 @@ Part of the [RealAI Check](https://arjun-k-varkey.github.io/realaicheck.github.i
     AP News (Venezuela event): https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e
     ```
 
-    **Limitations**
-    ```
+## Limitations
+    
     AI detector trained on older models (~80–90% accuracy on modern text)
     Fact-checking uses automated web search — always verify manually
     Works best on single news articles (not homepages)
-    ```
+    
         
     **Contributing**
     ```
