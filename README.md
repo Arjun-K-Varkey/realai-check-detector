@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+
 # RealAI Check – AI Misinformation Detector Prototype
 
 An open-source tool to detect potential AI-generated text and fact-check claims in news articles. Built to support transparent, IFCN-aligned verification.
